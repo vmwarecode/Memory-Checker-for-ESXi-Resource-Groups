@@ -1,1 +1,0 @@
-# Memory-Checker-for-ESXi-Resource-Groups
